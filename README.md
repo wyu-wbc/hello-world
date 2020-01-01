@@ -1,3 +1,1 @@
-# hello-world
-just testand 
-and now i am just test the function
+I am now test the git-hub function
